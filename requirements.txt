@@ -1,0 +1,5 @@
+pygame==2.3.0
+    
+# Optional (for camera-based hand tracking)
+mediapipe>=0.10.0
+opencv-python>=4.7.0
