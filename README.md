@@ -1,30 +1,22 @@
-Game Demo
+# Game Demo
 
-This is a small pygame demo. A virtual environment is provided for convenience.
+This is a demo of the ladder game created using Pygame.
 
-Quick start
+## Preview
 
-1) Create and activate the virtual environment (recommended):
+### Gameplay GIF
+![Gameplay GIF](file:///Users/liyuwen/Documents/10月26日/10月26日.gif)
 
-```bash
-cd /Users/liyuwen/game_demo
-python3 -m venv .venv
-source .venv/bin/activate
-```
+### Gameplay Video
+[Gameplay Video](file:///Users/liyuwen/Documents/10月26日/10月26日.mp4)
 
-2) Install dependencies and run the demo:
+## How to Run
 
-```bash
-pip install -r requirements.txt
-python3 main.py
-```
+1. Install the dependencies listed in `requirements.txt`.
+2. Run the game using the command:
+   ```zsh
+   python main.py
+   ```
 
-Or simply run the included helper script (it will create/activate the venv, install deps and run):
-
-```bash
-./run.sh
-```
-
-Troubleshooting
-
-- If you see "ModuleNotFoundError: No module named 'pygame'", make sure you are using the virtual environment created above (activate it with `source .venv/bin/activate`) or run `./run.sh` which handles activation and install.
+Enjoy the game!
+# game_demo
