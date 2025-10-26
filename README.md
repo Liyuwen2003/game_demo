@@ -3,6 +3,8 @@
 This is a demo of the ladder game created using Pygame.
 
 ## Preview
+<img width="802" height="596" alt="截屏2025-10-26 09 46 09" src="https://github.com/user-attachments/assets/fcd75fdb-9db1-467d-a7df-f1e43d5b11b4" />
+<img width="802" height="602" alt="截屏2025-10-26 09 46 23" src="https://github.com/user-attachments/assets/bdfad767-e509-49e8-8400-726ace992519" />
 
 ### Gameplay GIF
 ![Gameplay GIF](file:///Users/liyuwen/Documents/10月26日/10月26日.gif)
